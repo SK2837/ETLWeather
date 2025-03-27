@@ -138,10 +138,5 @@ For detailed deployment instructions, visit the [Astronomer documentation](https
 - [Astronomer Support](https://support.astronomer.io/)
 - [Airflow Slack](https://apache-airflow.slack.com/)
 
-## 📝 Contributing
-
-We welcome contributions to improve this project template! Please open an issue or submit a pull request to the [Astronomer CLI repository](https://github.com/astronomer/astro-cli).
-
----
 
 Built with ❤️ by [Astronomer](https://www.astronomer.io/)
