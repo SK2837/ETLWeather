@@ -1,6 +1,5 @@
 # Astronomer Airflow Project
 
-<img src="https://raw.githubusercontent.com/astronomer/docs/main/static/img/astronomer-logo.svg" alt="Astronomer Logo" width="300"/>
 
 ## 🚀 Introduction
 
